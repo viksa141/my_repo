@@ -1,0 +1,1 @@
+ This will be directly added in repository without add in staging index.
