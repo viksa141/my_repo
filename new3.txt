@@ -1,0 +1,2 @@
+I create this file on git bash.
+I use the touch command to create it, and use vi command to add text in it.
