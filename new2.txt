@@ -1,0 +1,10 @@
+This is the new file, which we add on the git repository.
+I also added some simple html in it-
+<html>
+ <head>
+ <titie>New2 File</title>
+ <head>
+ <body>
+  <p>THis is paragraph tag</p>
+ </body>
+ </html>
